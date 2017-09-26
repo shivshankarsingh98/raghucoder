@@ -13,5 +13,6 @@ scanf("%d",&b);
 c=a+b;
 /*display the output*/
 printf("the result of additon of two numbers is %d",c);
+printf("raghu is coder of anits 2/4 csea");
 }
 
